@@ -1,24 +1,13 @@
-# Legacy Third-Party Reference
+# Legacy Upstream Reference
 
-This repository is not an original BlazingSystems project and is not part of the active portfolio.
+This repository is retired and is not part of the active BlazingSystems portfolio.
 
-The earlier tree was based on the **Wi-PWN** project by Sam Denty and included third-party source code, installers, drivers, application packages, and generated assets. Those files have been removed from the current branch rather than being redistributed as portfolio work.
-
-Upstream project reference:
+The current branch is retained only as an attribution/reference point for the upstream Wi-PWN project by Sam Denty:
 
 - https://github.com/samdenty99/Wi-PWN
 
-The upstream license file is retained here for attribution and historical context.
+The upstream license is retained in `LICENSE.MD`.
 
-## Status
+For maintained BlazingSystems work, use the curated Projects, Labs, Experiments, and Engineering Archive repositories.
 
-**ARCHIVED THIRD-PARTY REFERENCE / NO ACTIVE DISTRIBUTION**
-
-For current BlazingSystems work, see:
-
-- [Projects](https://github.com/BlazingSystems/BlazingSystems-Projects)
-- [Labs](https://github.com/BlazingSystems/BlazingSystems-Labs)
-- [Experiments](https://github.com/BlazingSystems/BlazingSystems-Experiments)
-- [Archives](https://github.com/BlazingSystems/BlazingSystems-Archives)
-
-Historical Git objects may still be reachable through old commit references until a repository-history rewrite is completed.
+**Status:** ARCHIVED THIRD-PARTY REFERENCE
