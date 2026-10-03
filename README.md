@@ -1,11 +1,24 @@
+<div align="center">
+
 # Legacy Upstream Reference
 
-This repository is retired and is not part of the active BlazingSystems portfolio.
+**Archived third-party reference — not an active BlazingSystems project**
 
-The current branch is retained only as an attribution/reference point for its original upstream project. The upstream license remains in `LICENSE.MD`.
+</div>
 
-Earlier repository history contained a broader third-party source and binary snapshot. That historical material is not presented as original BlazingSystems work and is scheduled for history cleanup.
+---
 
-For maintained BlazingSystems work, use the curated Projects, Labs, Experiments, and Engineering Archive repositories.
+This repository is retained only as an attribution/reference point for its original upstream work. The upstream license remains in [LICENSE.MD](LICENSE.MD).
+
+Earlier repository history contained a broader third-party source and binary snapshot. That material is **not** presented as original BlazingSystems work and remains scheduled for historical-object cleanup.
+
+## Portfolio Boundary
+
+Maintained BlazingSystems work lives in:
+
+- [Projects](https://github.com/BlazingSystems/BlazingSystems-Projects)
+- [Labs](https://github.com/BlazingSystems/BlazingSystems-Labs)
+- [Experiments](https://github.com/BlazingSystems/BlazingSystems-Experiments)
+- [Engineering Archive](https://github.com/BlazingSystems/BlazingSystems-Archives)
 
 **Status:** ARCHIVED THIRD-PARTY REFERENCE
